@@ -5,7 +5,6 @@
 📧 Email: akp3067@gmail.com  
 🌐 Portfolio: [ankitpakhale.netlify.app](https://ankitpakhale.netlify.app)  
 💼 LinkedIn: [linkedin.com/ankitpakhale](https://www.linkedin.com/ankitpakhale)  
-🐙 GitHub: [github.com/ankitpakhale](https://github.com/ankitpakhale)  
 
 ## About Me
 
