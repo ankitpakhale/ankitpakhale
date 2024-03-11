@@ -1,1 +1,45 @@
-As a Python Developer with over three years of experience, including expertise in Django, AWS, react js & Deep Learning, I've led successful projects at multiple organizations, leveraging cutting-edge technologies to enhance user interactions & automate tasks. Skilled in microservice architecture & API integration, I bring a robust skill set to drive innovation & efficiency. You can directly reach me through my website https://ankitpakhale.netlify.app/ or Gmail akp3067@gmail.com
+# Hi there! 👋 I'm Ankit Pakhale
+
+🌟 Python Developer | Django | AWS | Deep Learning | React JS 🌟
+
+📧 Email: akp3067@gmail.com  
+🌐 Portfolio: [ankitpakhale.netlify.app](https://ankitpakhale.netlify.app)  
+💼 LinkedIn: [linkedin.com/ankitpakhale](https://www.linkedin.com/ankitpakhale)  
+🐙 GitHub: [github.com/ankitpakhale](https://github.com/ankitpakhale)  
+
+## About Me
+
+I'm a Python Developer based in Ahmedabad, with a passion for leveraging technology to solve real-world problems. With expertise in Python, Django, AWS, Deep Learning, and React JS, I thrive in collaborative environments where creativity and innovation are valued. My journey in software development has been driven by a curiosity to explore emerging technologies and a dedication to delivering impactful solutions.
+
+In addition to my technical skills, I bring strong problem-solving abilities and a knack for effective communication, making me a valuable asset in any project team. I enjoy tackling complex challenges and continuously expanding my knowledge to stay at the forefront of technological advancements.
+
+## Featured Projects
+
+### Hand Gesture Keyboard
+
+- 🖐️ Developed using OpenCV and Hand Tracking Module.
+- ⌨️ Implements interactive text input by tracking hand movements.
+- 🚀 [Check it out!](link-to-hand-gesture-keyboard)
+
+### Hand Gesture Volume Control
+
+- 🔊 Built with OpenCV and NumPy libraries.
+- 🎚️ Calculates volume based on hand gestures.
+- 📈 Real-time GUI with volume bar and percentage display.
+- 🚀 [Check it out!](link-to-hand-gesture-volume-control)
+
+## Skills
+
+- Python
+- Django
+- AWS
+- Deep Learning
+- React JS
+- Computer Vision
+- Natural Language Processing
+- JavaScript
+
+## Get in Touch
+
+📫 Interested in collaborating or discussing a project? Feel free to reach out via [email](mailto:akp3067@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/ankitpakhale). Looking forward to hearing from you!
+
