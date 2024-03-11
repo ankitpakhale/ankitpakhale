@@ -18,14 +18,14 @@ In addition to my technical skills, I bring strong problem-solving abilities and
 
 - 🖐️ Developed using OpenCV and Hand Tracking Module.
 - ⌨️ Implements interactive text input by tracking hand movements.
-- 🚀 [Check it out!](link-to-hand-gesture-keyboard)
+- 🚀 [Check it out!](https://github.com/ankitpakhale/HandGestureKeyboard)
 
 ### Hand Gesture Volume Control
 
 - 🔊 Built with OpenCV and NumPy libraries.
 - 🎚️ Calculates volume based on hand gestures.
 - 📈 Real-time GUI with volume bar and percentage display.
-- 🚀 [Check it out!](link-to-hand-gesture-volume-control)
+- 🚀 [Check it out!](https://github.com/ankitpakhale/HandGestureVolumeControl)
 
 ## Skills
 
