@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a Python Developer based in Ahmedabad, with a passion for leveraging technology to solve real-world problems. With expertise in Python, Django, AWS, Deep Learning, and React JS, I thrive in collaborative environments where creativity and innovation are valued. My journey in software development has been driven by a curiosity to explore emerging technologies and a dedication to delivering impactful solutions.
+I'm a Senior Software Engineer based in Pune, with a passion for leveraging technology to solve real-world problems. With expertise in Python, Generative AI, Django, AWS, Deep Learning, and React JS, I thrive in collaborative environments where creativity and innovation are valued. My journey in software development has been driven by a curiosity to explore emerging technologies and a dedication to delivering impactful solutions.
 
 In addition to my technical skills, I bring strong problem-solving abilities and a knack for effective communication, making me a valuable asset in any project team. I enjoy tackling complex challenges and continuously expanding my knowledge to stay at the forefront of technological advancements.
 
@@ -31,6 +31,7 @@ In addition to my technical skills, I bring strong problem-solving abilities and
 ## Skills
 
 - Python
+- Generative AI
 - Django
 - AWS
 - Deep Learning
@@ -61,6 +62,9 @@ In addition to my technical skills, I bring strong problem-solving abilities and
 ![](https://github-readme-stats.vercel.app/api?username=ankitpakhale&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitpakhale&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpakhale&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Strike
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ankitpakhale)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankitpakhale&theme=radical&no-frame=true&no-bg=false&margin-w=4)
